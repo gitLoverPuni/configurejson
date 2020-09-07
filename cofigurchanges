@@ -1,5 +1,5 @@
 {
-  "canOpenPromo": 3,
+  "canOpenPromo": false,
   "promoDict": {
     "code": "",
     "count": 0
