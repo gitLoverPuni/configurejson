@@ -1,6 +1,6 @@
 {
   "canOpenPromo": false,
-  "laCache": true,
+  "laCache": false,
   "promoDict": {
     "code": "",
     "count": 0
