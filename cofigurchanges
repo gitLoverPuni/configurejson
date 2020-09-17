@@ -1,6 +1,7 @@
 {
   "canOpenPromo": false,
   "laCache": false,
+  "problema": true,
   "promoDict": {
     "code": "",
     "count": 0
