@@ -1,9 +1,9 @@
 {
-  "canOpenPromo": false,
+  "canOpenPromo": true,
   "laCache": false,
   "problema": false,
   "promoDict": {
-    "code": "1",
+    "code": "83492381",
     "count": 1
   },
   "queryHash": "33ba35852cb50da46f5b5e889df7d159",
