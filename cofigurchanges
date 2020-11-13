@@ -1,5 +1,5 @@
 {
-  "canOpenPromo": true,
+  "canOpenPromo": false,
   "laCache": false,
   "problema": false,
   "promoDict": {
