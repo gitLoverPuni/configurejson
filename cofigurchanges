@@ -2,7 +2,7 @@
   "canOpenPromo": false,
   "laCache": false,
   "problema": false,
-  "applicare": false,
+  "applicare": true,
   "promoDict": {
     "code": "",
     "count": 0
