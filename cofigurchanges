@@ -3,7 +3,7 @@
   "laCache": false,
   "problema": false,
   "applicare": true,
-  "newapplicare": true,
+  "newapplicare": false,
   "promoDict": {
     "code": "",
     "count": 0
